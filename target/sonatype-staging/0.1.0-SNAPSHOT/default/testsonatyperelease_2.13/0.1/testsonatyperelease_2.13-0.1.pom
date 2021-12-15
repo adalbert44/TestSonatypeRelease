@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>default</groupId>
+    <artifactId>testsonatyperelease_2.13</artifactId>
+    <packaging>jar</packaging>
+    <description>TestSonatypeRelease</description>
+    <url>https://github.com/adalbert44/TestSonatypeRelease</url>
+    <version>0.1</version>
+    <licenses>
+        <license>
+            <name>Apache 2</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <name>TestSonatypeRelease</name>
+    <organization>
+        <name>default</name>
+        <url>https://github.com/adalbert44/TestSonatypeRelease</url>
+    </organization>
+    <scm>
+        <url>https://github.com/adalbert44/TestSonatypeRelease</url>
+        <connection>scm:git@github.com:adalbert44/TestSonatypeRelease.git</connection>
+    </scm>
+    <developers>
+        <developer>
+            <id>adalbert44</id>
+            <name>adalbert44</name>
+            <email>adalbert.makarovych@gmail.com</email>
+            <url>https://github.com/adalbert44</url>
+        </developer>
+    </developers>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.13.7</version>
+        </dependency>
+    </dependencies>
+</project>
