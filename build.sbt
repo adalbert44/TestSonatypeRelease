@@ -1,15 +1,17 @@
 import xerial.sbt.Sonatype._
 
-name := "TestSonatypeRelease"
+name := "test-sonatype-release"
 
-version := "0.1"
+version := "0.0.1"
 
 scalaVersion := "2.13.7"
 
-sonatypeProfileName := "io.github.adalbert44"
+organization := "io.github.adalbert44"
+//sonatypeProfileName := "io.github.adalbert44"
 licenses := List("Apache 2" -> new URL("http://www.apache.org/licenses/LICENSE-2.0.txt"))
 publishTo := sonatypePublishToBundle.value
-ThisBuild / sonatypeCredentialHost := "s01.oss.sonatype.org"
+sonatypeRepository := "https://s01.oss.sonatype.org/service/local"
+sonatypeCredentialHost:= "s01.oss.sonatype.org"
 publishMavenStyle := true
 sonatypeProjectHosting := Some(GitHubHosting("adalbert44", "TestSonatypeRelease", "adalbert.makarovych@gmail.com"))
 scmInfo := Some(
@@ -18,4 +20,3 @@ scmInfo := Some(
     "scm:git@github.com:adalbert44/TestSonatypeRelease.git"
   )
 )
-

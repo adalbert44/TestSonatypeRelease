@@ -1,1 +1,13 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/testsonatyperelease_2.13-0.1.jar[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/testsonatyperelease_2.13-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/classes/TestClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/github/adalbert44[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/classes/io/github/adalbert44[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/classes/io[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/github/adalbert44/TestClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/classes/io/github/adalbert44/TestClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	io/github[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/classes/io/github[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

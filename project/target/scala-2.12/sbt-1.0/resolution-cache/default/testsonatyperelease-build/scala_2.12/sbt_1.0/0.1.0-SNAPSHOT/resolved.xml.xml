@@ -4,7 +4,7 @@
 		module="testsonatyperelease-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20211215225746"
+		publication="20211216134511"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
@@ -40,8 +40,8 @@
 			<artifact name="global-plugins" type="src" ext="jar" conf="compile" e:classifier="sources"/>
 			<artifact name="global-plugins" type="doc" ext="jar" conf="compile" e:classifier="javadoc"/>
 		</dependency>
-		<dependency org="com.github.sbt" name="sbt-pgp" rev="2.1.2" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
-		<dependency org="org.xerial.sbt" name="sbt-sonatype" rev="3.9.5" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="com.jsuereth" name="sbt-pgp" rev="2.0.1" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="org.xerial.sbt" name="sbt-sonatype" rev="3.9.6" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
 		<override org="org.scala-sbt" module="scripted-plugin_2.12" matcher="exact" rev="1.2.8"/>
 	</dependencies>
 </ivy-module>

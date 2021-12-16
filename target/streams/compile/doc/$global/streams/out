@@ -1,1 +1,11 @@
-[0m[[0m[0mdebug[0m] [0m[0mUptodate: /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/api[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.7[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/amakarovych-ua/TestSonatypeRelease/target/scala-2.13/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/jdk1.8.0_241/jre/lib/resources.jar:/usr/lib/jvm/jdk1.8.0_241/jre/lib/rt.jar:/usr/lib/jvm/jdk1.8.0_241/jre/lib/sunrsasign.jar:/usr/lib/jvm/jdk1.8.0_241/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.8.0_241/jre/lib/jce.jar:/usr/lib/jvm/jdk1.8.0_241/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.8.0_241/jre/lib/jfr.jar:/usr/lib/jvm/jdk1.8.0_241/jre/classes:/home/amakarovych-ua/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.7.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dummy_5fde1e67[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/amakarovych-ua/TestSonatypeRelease/src/main/scala/io/github/adalbert44/TestClass.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

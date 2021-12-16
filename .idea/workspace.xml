@@ -2,26 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af764262-1484-4a58-8566-288003e1a243" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/adalbert44/TestSonatypeRelease/TestClass.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/io/github/adalbert44/TestClass.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/TestSonatypeRelease-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TestSonatypeRelease-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0d6266bd802c302f91a4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0d6266bd802c302f91a4.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0d6266bd802c302f91a4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ff7f30d0599a4441de8$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ff7f30d0599a4441de8.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ff7f30d0599a4441de8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$807fca9238a8fe0d557d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$807fca9238a8fe0d557d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$807fca9238a8fe0d557d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7c6b612a8f514503eb2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7c6b612a8f514503eb2.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f7c6b612a8f514503eb2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/plugins.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3800d7d6cf02d37e3928$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3800d7d6cf02d37e3928.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3800d7d6cf02d37e3928.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a257388d12661cbbb5d3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a257388d12661cbbb5d3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$a257388d12661cbbb5d3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2a07645488d39d7442f1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2a07645488d39d7442f1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2a07645488d39d7442f1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65f0f134906dca3f8811$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65f0f134906dca3f8811.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65f0f134906dca3f8811.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6a3e804eee3e23e217b7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6a3e804eee3e23e217b7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6a3e804eee3e23e217b7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82dde6455e3f8310e095$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82dde6455e3f8310e095.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$82dde6455e3f8310e095.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a2dfb7d117e93dc97a8d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a2dfb7d117e93dc97a8d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a2dfb7d117e93dc97a8d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abe7f66f1a938ae0eca1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abe7f66f1a938ae0eca1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$abe7f66f1a938ae0eca1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad45cb44234d8afea42c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad45cb44234d8afea42c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad45cb44234d8afea42c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bc3e2709f6c838628649$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bc3e2709f6c838628649.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bc3e2709f6c838628649.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dca49a4b29eabc72ecee$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dca49a4b29eabc72ecee.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dca49a4b29eabc72ecee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fd9001506f66e068b1da$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fd9001506f66e068b1da.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fd9001506f66e068b1da.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/testsonatyperelease-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/testsonatyperelease-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/testsonatyperelease-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/testsonatyperelease-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsonatyperelease-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsonatyperelease-build-compile-internal.xml" afterDir="false" />
@@ -41,8 +62,6 @@
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
@@ -50,10 +69,10 @@
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/io/github/adalbert44/TestSonatypeRelease/TestClass.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/testsonatyperelease$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/testsonatyperelease$sources/0.1/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/testsonatyperelease$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/testsonatyperelease$sources/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/testsonatyperelease_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/testsonatyperelease_2.13/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/testsonatyperelease_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/testsonatyperelease_2.13/0.1/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease$sources-compile-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease$sources-compile.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease$sources-optional.xml" afterDir="false" />
@@ -76,11 +95,38 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease_2.13-scala-tool.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease_2.13-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-testsonatyperelease_2.13-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testsonatyperelease_2.13-0.1-javadoc.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testsonatyperelease_2.13-0.1-javadoc.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testsonatyperelease_2.13-0.1-sources.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testsonatyperelease_2.13-0.1-sources.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testsonatyperelease_2.13-0.1.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testsonatyperelease_2.13-0.1.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testsonatyperelease_2.13-0.1.pom.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testsonatyperelease_2.13-0.1.pom.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-javadoc.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-javadoc.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-javadoc.jar.asc.md5" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-javadoc.jar.asc.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-javadoc.jar.asc.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-javadoc.jar.asc.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-sources.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-sources.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-sources.jar.asc.md5" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-sources.jar.asc.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-sources.jar.asc.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1-sources.jar.asc.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.jar.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.jar.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.jar.asc.md5" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.jar.asc.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.jar.asc.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.jar.asc.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.pom.asc" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.pom.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.pom.asc.md5" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.pom.asc.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.pom.asc.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonatype-staging/0.1.0-SNAPSHOT/default/testsonatyperelease_2.13/0.1/testsonatyperelease_2.13-0.1.pom.asc.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/makePom/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/makePom/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/publishSigned/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/publishSigned/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/signedArtifacts/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/signedArtifacts/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/output" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +160,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/scala" />
-    <property name="last_opened_file_path" value="$USER_HOME$/singlestore-kafka-connector" />
+    <property name="last_opened_file_path" value="$USER_HOME$/singlestore-spark-connector/build.sbt" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -147,10 +193,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4918746356888" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="1086480464" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1295253759" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
-        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="400597130" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="1921513048" />
       </map>
     </option>
     <option name="projectSyncType">
@@ -179,7 +224,9 @@
       <option name="presentableId" value="Default" />
       <updated>1639567127704</updated>
       <workItem from="1639567132291" duration="8912000" />
-      <workItem from="1639596898231" duration="2602000" />
+      <workItem from="1639596898231" duration="4470000" />
+      <workItem from="1639641485708" duration="1273000" />
+      <workItem from="1639652938114" duration="5310000" />
     </task>
     <servers />
   </component>
@@ -195,10 +242,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="322" y="312" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1639571272811" />
-    <state x="459" y="312" key="FileChooserDialogImpl" timestamp="1639568203921">
+    <state x="459" y="312" key="FileChooserDialogImpl" timestamp="1639652986478">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="459" y="312" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1639568203921" />
+    <state x="459" y="312" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1639652986478" />
     <state x="366" y="189" key="SettingsEditor" timestamp="1639570577966">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -207,9 +254,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="370" y="334" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1639570985765" />
-    <state x="1265" y="25" key="com.intellij.ide.util.TipDialog" timestamp="1639600091823">
+    <state x="1265" y="25" key="com.intellij.ide.util.TipDialog" timestamp="1639652962957">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1265" y="25" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1639600091823" />
+    <state x="1265" y="25" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1639652962957" />
+    <state x="305" y="287" width="692" height="502" key="find.popup" timestamp="1639657014959">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="305" y="287" width="692" height="502" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1639657014959" />
   </component>
 </project>

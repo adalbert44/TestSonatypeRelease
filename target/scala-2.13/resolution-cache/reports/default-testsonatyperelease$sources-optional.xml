@@ -4,10 +4,10 @@
 	<info
 		organisation="default"
 		module="testsonatyperelease$sources"
-		revision="0.1"
+		revision="0.0.1"
 		conf="optional"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20211215162223"/>
+		date="20211216143804"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
